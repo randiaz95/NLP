@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QgiLvrwuYlIA7FyqKKoLsVl98lFq81WiFqQoAul7FasKeRovUltdFMufwYSl7HZC1QPScGqweMqs58fdcm6CPA==",
+  "success": true,
+  "projectFilePath": "/Users/kristen/Desktop/repo/mstut/nlp/nlp.fsproj",
+  "expectedPackageFiles": [
+    "/Users/kristen/.nuget/packages/fsharp.core/4.7.1/fsharp.core.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
